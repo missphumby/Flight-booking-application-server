@@ -1,0 +1,84 @@
+[
+    {
+        "name":"Swimming",            
+        "price": 29,
+        "image": "https://i.assetzen.net/i/XUiOkqQjiePn/w:1024/h:0/q:70.jpg",
+        "keywords": "water"
+    },
+     {
+        "name":"Horse Riding",            
+        "price": 20,
+        "image": "https://www.horsexplore.com/upload/images/hx/cm4/header/startsida/mobile/aquitaine_600x338.jpg",
+        "keywords": "riding"
+    },
+     {
+        "name":"Table Tennis",            
+        "price": 30,
+        "image": "https://i.assetzen.net/i/dR5qgo0AAKrO/w:634/h:322/q:70.jpg",
+        "keywords":"table"
+         
+               
+    },
+     {
+        "name":"Water Surfing",            
+        "price": 45,
+        "image": "https://i.assetzen.net/i/R3YCv8baCys6/w:/h:1000/q:70.jpg",
+        "keywords": "water"
+               
+    },
+     {
+        "name":"Bike Riding",            
+        "price": 15,
+        "image": "https://i.assetzen.net/i/Do62l2QHkWrj/w:634/h:322/q:70.jpg",
+        "keywords": "riding" 
+               
+    },
+     {
+        "name":"Golf",            
+        "price": 35,
+        "image": "https://i.assetzen.net/i/ZZzAXrR78TOJ/w:1024/h:0/q:70.jpg",
+        "keywords": "soccer" 
+               
+    },
+     {
+        "name":"Sailing",            
+        "price": 55,
+        "image": "https://i.assetzen.net/i/OCQLzJ4DRQPO/w:634/h:322/q:70.jpg",
+        "keywords": "water"
+               
+    },
+     {
+        "name":"Kayaking",            
+        "price": 22,
+        "image": "https://i.assetzen.net/i/i4zRbVmNUprS/w:634/h:322/q:70.jpg",
+        "keywords": "water"
+             
+               
+    },
+    {
+        "name":"cinema",            
+        "price": 10,
+        "image": "https://www.europa-cinemas.org/storage/2393/conversions/home_presentation_image_crop-small.jpg",
+        "keywords": "movies"           
+    },
+    {
+        "name":"Museum Site seeing",            
+        "price": 15,
+        "image": "https://d2bgjx2gb489de.cloudfront.net/gbb-blogs/wp-content/uploads/2016/11/17181839/shutterstock_331790432-870x400.jpg",
+        "keywords": "site seeing"           
+    },
+      {
+        "name":"Playing Football",            
+        "price": 5,
+        "image": "https://www.footballflick.com/wp-content/uploads/2022/07/IMAGE-INSERT-2-768x380.jpg",
+        "keywords": "soccer"           
+    },
+    {
+        "name":"Skating",            
+        "price": 8,
+        "image": "https://www.shape.com/thmb/5YroH975ZXeQHQhISM0itm8avE0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roller-skating-quarantine-a5fdd37e78a5491fb24efd773dd1cce7.jpg",
+        "keywords": "skating"           
+    }
+    
+
+]

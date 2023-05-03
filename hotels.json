@@ -1,0 +1,171 @@
+[
+    {
+         "name": "Roma Fori Imperiali",
+    "location": "Via di Santa Eufemia, 19 00187, Rome - Italy",
+    "desc": " This brand-new hotel puts you right by the Imperial Forums, which are among Rome’s major archeological treasures, as well as close to everything the city has to offer.",
+    "imageurl": "https://img.nh-hotels.net/rNrzE/VDBve/original/T_NH_collection-fori-imperiali_078.jpg?output-quality=70&resize=550:*&composite-to=center,center|550:278&background-color=white",
+    "price": "100",
+    "rating": 5,
+    "amenities": "[free wifi,Eco friendy, Air-conditioning-Climate control, Easy Access, pets ]"
+    },{
+        "name": "Roma Vittorio Veneto",
+    "location": "Corso d'Italia, 1, 00198, Rome - Italy",
+    "desc": " The Roma Vittorio Veneto hotel is in the heart of Rome. This hotel in Rome is near the city’s most popular street, Via Veneto, Villa Borghese Park, Piazza del Popolo, Trevi Fountain and Spanish Steps",
+    "imageurl": "https://img.nh-hotels.net/oLvby/2qoON/original/RPV_NH_collection-vittorio-veneto_343_2000x1150-0_65.jpg?output-quality=70&resize=550:*&composite-to=center,center|550:278&background-color=white",
+    "price": "80",
+    "rating": 4,
+    "amenities": "[free wifi,Eco friendy,parking, gym, babysitter  ]"
+   
+    },
+    {
+        "name": " Roma Villa Carpegna",
+    "location": "Via Pio IV, 6, 00165, Rome - Italy",
+    "desc": " Set just outside Rome’s bustling center, the NH Roma Villa Carpegna hotel offers the perfect balance between city action and suburban tranquillity.",
+    "imageurl": "https://img.nh-hotels.net/ZznN/6RoG0/original/SP_NH_villa-carpegna_204.jpg?output-quality=70&resize=550:*&composite-to=center,center|550:278&background-color=white",
+    "price": "90",
+    "rating": 4,
+    "amenities": "[free wifi,Eco friendy, parking, gym, pool, pets  ]"
+   
+    },
+     {
+         "name": "Hotel Indigo",
+    "location": "1 Leicester Square, London WC2H 7NA England",
+    "desc": " In the heart of New Town, Hotel Indigo Edinburgh – Princes Street, an IHG Hotel, offers a comfortable and contemporary stay ideally situated for shopping and sightseeing.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ba/8c/a4/bathroom.jpg?w=600&h=-1&s=1",
+    "price": "100",
+    "rating": 5,
+    "amenities": "[free wifi,Eco friendy, Air-conditioning-Climate control, Easy Access, pets ]"
+    },{
+        "name": "Kimpton Fitzroy London",
+    "location": "1-8 Russell Square Bloomsbury, London WC1B 5BE England",
+    "desc": " At Kimpton Fitzroy London, we’re all about the little extras. Start your day at the Technogym-equipped fitness center before grabbing a flat white at Burr & Co., our lobby-level cafe",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/06/cb/d8/junior-suite.jpg?w=900&h=-1&s=1",
+    "price": "80",
+    "rating": 4,
+    "amenities": "[free wifi,Eco friendy,parking, gym, babysitter  ]"
+   
+    },
+    {
+        "name": "The Piccadilly London West End",
+    "location": "65-73 Shaftesbury Avenue Piccadilly, London W1D 6EX England",
+    "desc": "The Piccadilly London West End is a study in understated style with the best of London on its doorstep, with exemplary service, clever technology and finishing touches that make all the difference.",
+    "imageurl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/d3/98/58/lobby-o.jpg?w=900&h=-1&s=1",
+    "price": "90",
+    "rating": 4,
+    "amenities": "[free wifi,Eco friendy, parking, gym, pool, pets friendly, spa  ]"
+   
+    },
+    {
+         "name": "Ace Hotel Downtown Los Angeles",
+    "location": "929 South Broadway, Downtown LA, Los Angeles",
+    "desc": " Located in the historic United Artists Building in the heart of the Los Angeles city center, this LA hotel offers guest rooms with flat-screen TVs and free Wi-Fi. A rooftop swimming pool is featured on site.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/square600/42107121.webp?k=b2dd79842065ddb578eadbfd0c3a4c9d63f48b01fc8a91d62318c753a9b2fdf7&o=&s=1",
+    "price": "200",
+    "rating": 5,
+    "amenities": "[free wifi,Eco friendy,fitness center, Easy access, room service, bar,private parking, swimming pool ]"
+    },{
+        "name": "citizenM Los Angeles Downtown",
+    "location": "361 South Spring Street, Downtown LA, Los Angeles",
+    "desc": " Conveniently located in Los Angeles, citizenM Los Angeles Downtown provides air-conditioned rooms, a fitness center, free WiFi and a shared lounge. One mile from LA Union Station and 2.4 km from Microsoft Theater, the property has a restaurant and a bar",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352089258.jpg?k=a80aa4bbfde7a29114b1c9166af0a926ef9582835f6ece1a900dc4cef4024c84&o=&hp=1",
+    "price": "180",
+    "rating": 5,
+    "amenities": "[free wifi,Eco friendy, Air conditioning, restaurant, parking, fitness center, bar, non-smoking rooms ]"
+   
+    },
+    {
+        "name": "Moxy Downtown Los Angeles",
+    "location": "1260 South Figueroa Street, Downtown LA, Los Angeles",
+    "desc": "Ideally located in the center of Los Angeles, Moxy Downtown Los Angeles has air-conditioned rooms, a fitness center, free WiFi and a terrace. Featuring a 24-hour front desk, this property also provides guests with a restaurant. Private parking is available on site.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443670838.jpg?k=a7227dbc39b7e4ebcb7ffaa3511ad6a57ac01199237f313f46ffe9416f318226&o=&hp=1",
+    "price": "150",
+    "rating": 5,
+    "amenities": "[free wifi, Air conditioning, restaurant, private parking, fitness center, bar, non-smoking rooms  ]"
+   
+    },
+    {
+         "name": "Pod Times Square",
+    "location": "400 West 42nd Street, Hell's Kitchen, New York",
+    "desc": " Located 400 m from Restaurant Row in New York, Pod Times Square features a restaurant, bar and free WiFi throughout the property.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129148007.jpg?k=815f041fa1d0220233632f1b140c0df7ba345fe22cf99964edead59d8363849c&o=&hp=1",
+    "price": "130",
+    "rating": 4,
+    "amenities": "[free wifi,Eco friendy,fitness center, Easy access, room service, bar,private parking, swimming pool ]"
+    },{
+        "name": "Hyatt Place New York City",
+    "location": "350 West 39th St, Hell's Kitchen, New York",
+    "desc": " Hyatt Place New York City/Times Square features air-conditioned rooms with satellite flat-screen TV in the Hell's Kitchen district of New York City. Among the facilities of this property are a restaurant, a 24-hour front desk and a shared lounge, along with free WiFi throughout the property. The hotel has newspapers and an ATM machine that guests can use.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270595384.jpg?k=44633d72b59167d3c190e838ca748f7603a71829f6d9f345779ad7d5af46796a&o=&hp=1",
+    "price": "95",
+    "rating": 4,
+    "amenities": "[free wifi,Eco friendy, Air conditioning,coffee maker, parking, fitness center, bar, non-smoking rooms ]"
+   
+    },
+    {
+        "name": "Hotel Edison Times Square",
+    "location": "228 West 47th Street, New York",
+    "desc": "Ideally located in Times Square, this Manhattan hotel has been around since 1930. With distinct influences of the Art Deco era in the design of the lobby and the exterior, Hotel Edison offers Classic and Signature rooms and suites.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63502504.jpg?k=500e187dddc5ee2cd7f118a335e861f14f925d4db791e9d1d53332ab64cbce84&o=&hp=1",
+    "price": "60",
+    "rating": 3,
+    "amenities": "[free wifi, Air conditioning, private parking, fitness center, bar, non-smoking rooms  ]"
+   
+    },
+    {
+         "name": "Austin's Saint Lazare Hotel",
+    "location": "26 Rue d'Amsterdam, 9th arr., 75009 Paris, France",
+    "desc": " This Austin's hotel is located in central Paris, next to Saint-Lazare Train Station and 801 m from Opéra Garnier. It offers soundproofed guest rooms with air-conditioning, flat-screen satellite TV and free WiFi.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442588097.jpg?k=55e9b9ef746f174f6ca750ac5aa944a4b4ce3469d457ed3ea3097121cf48e680&o=&hp=1",
+    "price": "140",
+    "rating": 4,
+    "amenities": "[free wifi, Elevator, Heating, Coffee service,Fitness center, family rooms ]"
+    },{
+        "name": "Au Paradis des Campeurs",
+    "location": "D559 La Gaillarde Plage, 83380 Les Issambres, France ",
+    "desc": " Hyatt Place New York City/Times Square features air-conditioned rooms with satellite flat-screen TV in the Hell's Kitchen district of New York City. Among the facilities of this property are a restaurant, a 24-hour front desk and a shared lounge, along with free WiFi throughout the property. The hotel has newspapers and an ATM machine that guests can use.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358208745.jpg?k=39f867c51261dc00e779156ec451bf00361cec1545af6987c2f66092e3b19494&o=&hp=1",
+    "price": "130",
+    "rating": 4,
+    "amenities": "[free wifi, Restaurant, Beachfront, coffee maker, free parking, fitness center, bar, non-smoking rooms ]"
+   
+    },
+    {
+        "name": "Le Mascaret",
+    "location": "115 Avenue de La République, 14800 Deauville, France",
+    "desc": "This 1930’s guest house with garden and south facing terraces and free Wi-Fi is set in the heart of Deauville, 200 m from the Casino de Deauville and 500 m from the beach.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311603845.jpg?k=71a12f5e922134271355fd10122ed1a419b0dc65f4426bb2c228459c76fd85e2&o=&hp=1",
+    "price": "120",
+    "rating": 3,
+    "amenities": "[free wifi, parking, coffee maker, family rooms, non-smoking rooms  ]"
+   
+    },
+    {
+         "name": "Hotel Felix",
+    "location": "111 West Huron, River North, Chicago",
+    "desc": " Located in Chicago’s vibrant River North neighborhood, this eco-friendly hotel is within walking distance of the unique shops and top restaurants on the Magnificent Mile. Free WiFi is available.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198093927.jpg?k=eea9a05272f99412b578e4bbbe0295814b257011e7c512011156beccbf684f08&o=&hp=1",
+    "price": "115",
+    "rating": 4,
+    "amenities": "[free wifi, Elevator, Heating, Coffee service,Fitness center, daily house keeping ]"
+    },{
+        "name": "Congress Plaza Hotel Chicago",
+    "location": "520 South Michigan Avenue, Chicago Loop, Chicago",
+    "desc": " Directly across from Millennium Park and sitting on the iconic Michigan Avenue, Congress Plaza Hotel offers elegance, luxury, and history in the heart of downtown Chicago. This historic Chicago hotel offers stunning city and lake views, on-site dining options, and free WiFi.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210349875.jpg?k=a6a2404ef2d781bad9e7532e5b2f785e9894238df5fe5de7e2febfaeba35e52c&o=&hp=1",
+    "price": "130",
+    "rating": 3,
+    "amenities": "[free wifi, Restaurant, free parking, fitness center, bar, breakfast, room service, non-smoking rooms ]"
+   
+    },
+    {
+        "name": "River Hotel",
+    "location": "75A East Wacker Drive, Chicago Loop, Chicago, IL 60601, United States of America",
+    "desc": "Ideally located in downtown Chicago along the Chicago River, this 4-star boutique hotel features modern guestrooms with free WiFi. The Art Institute of Chicago is 10 minutes' walk away.",
+    "imageurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76905009.jpg?k=ee5bf633db828761207f28032ac171278e5f14a741d7789c196e8cd98af21d04&o=&hp=1",
+    "price": "170",
+    "rating": 5,
+    "amenities": "[free wifi, private parking, coffee maker, family rooms, laundry, non-smoking rooms  ]"
+   
+    }
+
+]
